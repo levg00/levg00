@@ -1,6 +1,10 @@
-# Applied projects
+<h1>
+  <a href="https://github.com/levg00/levg00/blob/main/portfolio/applied.en.md"><img align="right" src="https://raw.githubusercontent.com/levg00/levg00/main/assets/lang-en-active-clean.svg" alt="EN"></a>
+  <a href="https://github.com/levg00/levg00/blob/main/portfolio/applied.ru.md"><img align="right" src="https://raw.githubusercontent.com/levg00/levg00/main/assets/lang-ru-inactive-clean.svg" alt="RU"></a>
+  Applied projects
+</h1>
 
-[Русский](applied.ru.md) · [Back to profile](../README.md)
+[↩ Profile](../README.md)
 
 Work spanning data analysis, programming, and product decisions. Materials are being prepared for publication; repository links will be added as projects become ready.
 
