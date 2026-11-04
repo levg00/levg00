@@ -4,9 +4,11 @@
   Лев Гирин
 </h1>
 
-Products, innovations, research, science, deep tech!
+Я студент Физтех-школы прикладной математики и информатики **МФТИ** ('30). Работаю на стыке **R&D, вычислительных наук и продуктовой разработки**. 
 
-## Категории
+Используйте разделы ниже, чтобы ознакомиться с моими работами ⬇️
 
-- [Прикладные проекты](https://github.com/levg00/levg00/blob/main/portfolio/applied.ru.md)
-- [Академические работы](https://github.com/levg00/levg00/blob/main/portfolio/academic.ru.md)
+## Разделы
+
+- [🛠️ Прикладные проекты](https://github.com/levg00/levg00/blob/main/portfolio/applied.ru.md)
+- [🔬 Академические работы](https://github.com/levg00/levg00/blob/main/portfolio/academic.ru.md)
