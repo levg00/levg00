@@ -2,7 +2,7 @@
 
 [Русский](https://github.com/levg00/levg00/blob/main/README.ru.md)
 
-First-year student at the Moscow Institute of Physics and Technology (MIPT), studying natural and computer sciences. Interested in applying programming, data analysis, and mathematical modeling to product problems.
+First-year student at the Moscow Institute of Physics and Technology (MIPT), studying natural and computer sciences. Interested in applying math & CS, data analysis, and AI for product problems.
 
 - [Applied projects](https://github.com/levg00/levg00/blob/main/portfolio/applied.en.md)
 - [Academic background and experimental work](https://github.com/levg00/levg00/blob/main/portfolio/academic.en.md)
