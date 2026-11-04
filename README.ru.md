@@ -1,9 +1,7 @@
-<p align="right">
-  <strong>🇷🇺 RU</strong> ·
-  <a href="https://github.com/levg00/levg00/blob/main/README.md">🇬🇧 EN</a>
-</p>
-
-# Лев Гирин
+<h1>
+  <a href="https://github.com/levg00/levg00/blob/main/README.md"><img align="right" src="https://img.shields.io/badge/English-30363d?style=flat-square" alt="Switch to English" height="24"></a>
+  Лев Гирин
+</h1>
 
 Products, innovations, research, science, deep tech!
 
