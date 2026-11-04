@@ -4,8 +4,10 @@
   Lev Girin
 </h1>
 
-Products, innovations, research, science, deep tech! 
+I am a student at **MIPT (Phystech)** School of Applied Mathematics and Computer Science ('30), working at the intersection of **Core R&D, Fundamental Sciences, and Product Engineering**. 
+
+Explore my work and background using the sections below ⬇️
 
 ## Categories
-- [Applied projects](https://github.com/levg00/levg00/blob/main/portfolio/applied.en.md)
-- [Academic work](https://github.com/levg00/levg00/blob/main/portfolio/academic.en.md)
+- [🛠️ Applied projects](https://github.com/levg00/levg00/blob/main/portfolio/applied.en.md)
+- [🔬 Academic work](https://github.com/levg00/levg00/blob/main/portfolio/academic.en.md)
