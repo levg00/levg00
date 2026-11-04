@@ -1,6 +1,6 @@
-# Лев Гирин — Профильный репозиторий
+## Лев Гирин 
 
-Products, innovations, research, science, deep tech. 
+Products, innovations, research, science, deep tech! 
 
 [English](https://github.com/levg00/levg00/blob/main/README.md)
 
