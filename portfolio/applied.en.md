@@ -4,16 +4,16 @@
   Applied projects
 </h1>
 
-[↩ Profile](../README.md)
+[↩ Back to profile](../README.md)
 
-Work spanning data analysis, programming, and product decisions. Materials are being prepared for publication; repository links will be added as projects become ready.
+Work in data analysis, programming, and product development. Materials are being prepared for publication; repository links will be added as they become available.
 
-| Project | Focus | Availability |
-|---|---|---|
-| Alfa Future case school | Team project spanning AI/ML, analytics, and product management | Description of personal contribution and results in preparation |
-| MobiCar | Product funnel analysis in Python, visualization, and hypotheses | Notebook and report in preparation; source spreadsheet not yet recovered |
-| Beeline / RORE | Team case on the Plan B tariff: product ideas, metrics, and financial modeling | Case study and presentation in preparation; model figures are projections |
-| Financial Shield | Product concept addressing fraudulent and impulsive transactions | Description and scenarios in preparation; no deployment claimed |
-| Deposit Manager | CS50P Python project: transaction tracking and history export | Video demonstration available locally; source code being prepared for publication |
+| Project | Stack & key focus |
+| :--- | :--- |
+| [Alfa Future Case School](URL_ALFA) | AI/ML • Product analytics and business metrics |
+| [MobiCar](URL_MOBICAR) | Python (pandas, matplotlib) • Product funnel and conversion analysis |
+| [Beeline / RORE](URL_BEELINE) | Financial modeling • SWOT, competitive analysis, and mobile plan design |
+| [Financial Shield](URL_FINANCIAL_SHIELD) | Product design • User scenarios (UX) and risk assessment logic |
+| [Deposit Manager](URL_DEPOSIT_MANAGER) | Python (CSV, OOP) • Transaction tracking and export utility |
 
-Additional practice: algorithms, C++, and SQL. Solution repositories will be added after selection and documentation.
+Additional practice: algorithms, ML, C++, and SQL. Solution repositories will be added after the materials have been selected and documented.
