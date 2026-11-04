@@ -1,6 +1,6 @@
 <h1>
-  <a href="https://github.com/levg00/levg00/blob/main/README.md"><img align="right" src="https://raw.githubusercontent.com/levg00/levg00/main/assets/lang-en-inactive-minimal.svg" alt="EN" width="68" height="28"></a>
-  <a href="https://github.com/levg00/levg00/blob/main/README.ru.md"><img align="right" src="https://raw.githubusercontent.com/levg00/levg00/main/assets/lang-ru-active-minimal.svg" alt="RU" width="68" height="28"></a>
+  <a href="https://github.com/levg00/levg00/blob/main/README.md"><img align="right" src="https://raw.githubusercontent.com/levg00/levg00/main/assets/lang-en-inactive-clean.svg" alt="EN"></a>
+  <a href="https://github.com/levg00/levg00/blob/main/README.ru.md"><img align="right" src="https://raw.githubusercontent.com/levg00/levg00/main/assets/lang-ru-active-clean.svg" alt="RU"></a>
   Лев Гирин
 </h1>
 
