@@ -6,7 +6,7 @@
 
 [↩ Back to profile](../README.md)
 
-Work in data analysis, programming, and product development. Materials are being prepared for publication; repository links will be added as they become available.
+Work in data analysis, programming, and product development. Materials are being prepared for publication. Repository links will be added as they become available.
 
 | Project | Stack & key focus |
 | :--- | :--- |
@@ -14,6 +14,4 @@ Work in data analysis, programming, and product development. Materials are being
 | [MobiCar](URL_MOBICAR) | Python (pandas, matplotlib) • Product funnel and conversion analysis |
 | [Beeline / RORE](URL_BEELINE) | Financial modeling • SWOT, competitive analysis, and mobile plan design |
 | [Financial Shield](URL_FINANCIAL_SHIELD) | Product design • User scenarios (UX) and risk assessment logic |
-| [Deposit Manager](URL_DEPOSIT_MANAGER) | Python (CSV, OOP) • Transaction tracking and export utility |
-
-Additional practice: algorithms, ML, C++, and SQL. Solution repositories will be added after the materials have been selected and documented.
+| [Deposit Manager](https://github.com/levg00/deposit-manager) | Python, CSV • Transaction tracking and export utility |
