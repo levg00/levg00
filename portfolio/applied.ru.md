@@ -9,10 +9,10 @@
 Работы в области анализа данных, программирования и продуктовых решений. Материалы готовятся к публикации. Cсылки на репозитории будут добавляться по мере готовности.
 
 
-| Проект | Стек и ключевой фокус |
-| :--- | :--- |
-| [Кейс-школа «Альфа-Будущее»](URL_ALFA) | AI/ML • Продуктовая аналитика и бизнес-метрики |
-| [МобиКар](URL_MOBICAR) | Python (Pandas, Matplotlib) • Анализ продуктовой воронки и конверсий |
-| [Билайн / RORE](https://github.com/levg00/beeline-rore-case/blob/main/README.ru.md) | Финальный проект кейс-чемпионата • Аналитика, продуктовые идеи и макет интерфейса|
-| [Финансовый щит](https://github.com/levg00/financial-shield-case/blob/main/README.ru.md) | Продуктовое проектирование • Пользовательские сценарии, оценка риска и метрики |
-| [Deposit Manager](https://github.com/levg00/deposit-manager/blob/main/README.ru.md) | Python, CSV • Учёт и экспорт финансовых операций |
+| Проект | Инструменты и методы | Задача и ключевой фокус |
+| :--- | :--- | :--- |
+| Кейс-школа «Альфа-Будущее» | ... | AI/ML, продуктовая аналитика и бизнес-метрики |
+| [МобиКар](https://github.com/levg00/mobicar-funnel-analysis/blob/main/README.ru.md) | Python, pandas, Matplotlib | Анализ воронки, визуализация конверсий и продуктовые гипотезы |
+| [Билайн / RORE](https://github.com/levg00/beeline-rore-case/blob/main/README.ru.md) | SWOT, конкурентный анализ, Perplexity | Продуктовые механики привлечения и вовлечения, макеты интерфейса |
+| [Финансовый щит](https://github.com/levg00/financial-shield-case/blob/main/README.ru.md) | Анализ требований, пользовательские сценарии | Проектирование финансовой защиты, логика оценки риска и метрики |
+| [Deposit Manager](https://github.com/levg00/deposit-manager/blob/main/README.ru.md) | Python, csv, pytest | Учёт доходов и расходов, история операций и экспорт в CSV |
