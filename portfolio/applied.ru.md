@@ -13,6 +13,6 @@
 | :--- | :--- |
 | [Кейс-школа «Альфа-Будущее»](URL_ALFA) | AI/ML • Продуктовая аналитика и бизнес-метрики |
 | [МобиКар](URL_MOBICAR) | Python (Pandas, Matplotlib) • Анализ продуктовой воронки и конверсий |
-| [Билайн / RORE](URL_BEELINE) | Фин. моделирование • SWOT, конкурентный анализ и дизайн тарифа |
+| [Билайн / RORE](https://github.com/levg00/beeline-rore-case/blob/main/README.ru.md) | Финальный проект кейс-чемпионата • Аналитика, продуктовые идеи и макет интерфейса|
 | [Финансовый щит](https://github.com/levg00/financial-shield-case/blob/main/README.ru.md) | Продуктовое проектирование • Пользовательские сценарии, оценка риска и метрики |
 | [Deposit Manager](https://github.com/levg00/deposit-manager/blob/main/README.ru.md) | Python, CSV • Учёт и экспорт финансовых операций |
