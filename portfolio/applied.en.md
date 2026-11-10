@@ -4,14 +4,39 @@
   Applied projects
 </h1>
 
-[↩ Back to profile](../README.md)
+[↩ Profile](../README.md)
 
-Work in data analysis, programming, and product development. Materials are being prepared for publication. Repository links will be added as they become available.
+Projects in data analysis, programming, and product design.
 
-| Project | Stack & key focus |
-| :--- | :--- |
-| [Alfa Future Case School](URL_ALFA) | AI/ML • Product analytics and business metrics |
-| [MobiCar](URL_MOBICAR) | Python (pandas, matplotlib) • Product funnel and conversion analysis |
-| [Beeline / RORE](https://github.com/levg00/beeline-rore-case) | Final-round case project • Analytics, product ideas, and UI mockups|
-| [Financial Shield](https://github.com/levg00/financial-shield-case) | Product design • User scenarios, risk assessment, and metrics |
-| [Deposit Manager](https://github.com/levg00/deposit-manager) | Python, CSV • Transaction tracking and export utility |
+| Project | Tools | Methods and skills | Project focus |
+| :--- | :--- | :--- | :--- |
+| Alfa Future Case School | ... | ... | AI/ML, product analytics, and business metrics |
+| [MobiCar](https://github.com/levg00/mobicar-funnel-analysis/blob/main/README.md) | Python, Pandas, Matplotlib | Funnel analysis, Hypothesis generation | Identifying the bottleneck on the path to the first ride. |
+| [Beeline / RORE](https://github.com/levg00/beeline-rore-case/blob/main/README.md) | Photoshop, Figma, Perplexity | Competitive analysis, Product design | Personalization and engagement for Plan B tariff customers. |
+| [Financial Shield](https://github.com/levg00/financial-shield-case/blob/main/README.md) | Figma | User scenarios, Risk assessment | A concept for protection against fraudulent and impulsive transactions. |
+| [Deposit Manager](https://github.com/levg00/deposit-manager/blob/main/README.md) | Python, CSV, Pytest | CLI development, Unit testing | Income and expense tracking with transaction history export to CSV. |
+
+<details>
+<summary><b>All tools, methods, and skills</b></summary>
+
+**MobiCar**
+
+- Tools: Python, Pandas, Matplotlib, Openpyxl, Jupyter Notebook; Excel, CSV.
+- Methods and skills: Funnel analysis, Data visualization, Product metrics, Hypothesis testing.
+
+**Beeline / RORE**
+
+- Tools: Adobe Photoshop, Figma; Perplexity — finding statistics and sources.
+- Methods and skills: Competitive analysis, Idea generation, Product design, UI mockup creation.
+
+**Financial Shield**
+
+- Tools: Figma.
+- Methods and skills: Requirements analysis, Product design, User scenarios, Risk assessment, Product metrics.
+
+**Deposit Manager**
+
+- Tools: Python, CSV, Pytest.
+- Methods and skills: CLI development, Data processing, File I/O, Unit testing.
+
+</details>
