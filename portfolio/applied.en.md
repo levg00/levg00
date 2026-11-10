@@ -13,5 +13,5 @@ Work in data analysis, programming, and product development. Materials are being
 | [Alfa Future Case School](URL_ALFA) | AI/ML • Product analytics and business metrics |
 | [MobiCar](URL_MOBICAR) | Python (pandas, matplotlib) • Product funnel and conversion analysis |
 | [Beeline / RORE](URL_BEELINE) | Financial modeling • SWOT, competitive analysis, and mobile plan design |
-| [Financial Shield](URL_FINANCIAL_SHIELD) | Product design • User scenarios (UX) and risk assessment logic |
+| [Financial Shield](https://github.com/levg00/financial-shield-case) | Product design • User scenarios, risk assessment, and metrics |
 | [Deposit Manager](https://github.com/levg00/deposit-manager) | Python, CSV • Transaction tracking and export utility |
