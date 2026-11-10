@@ -14,5 +14,5 @@
 | [Кейс-школа «Альфа-Будущее»](URL_ALFA) | AI/ML • Продуктовая аналитика и бизнес-метрики |
 | [МобиКар](URL_MOBICAR) | Python (Pandas, Matplotlib) • Анализ продуктовой воронки и конверсий |
 | [Билайн / RORE](URL_BEELINE) | Фин. моделирование • SWOT, конкурентный анализ и дизайн тарифа |
-| [Финансовый щит](URL_FINANCIAL_SHIELD) | Product Design • Проектирование сценариев (UX) и логики оценки рисков |
+| [Финансовый щит](https://github.com/levg00/financial-shield-case/blob/main/README.ru.md) | Продуктовое проектирование • Пользовательские сценарии, оценка риска и метрики |
 | [Deposit Manager](https://github.com/levg00/deposit-manager/blob/main/README.ru.md) | Python, CSV • Учёт и экспорт финансовых операций |
