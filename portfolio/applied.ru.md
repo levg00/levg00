@@ -10,7 +10,7 @@
 
 | Проект | Инструменты | Методы и навыки | Суть проекта |
 | :--- | :--- | :--- | :--- |
-| Кейс-школа «Альфа-Будущее» | ... | ... | AI/ML, продуктовая аналитика и бизнес-метрики |
+| [Кейс-школа «Альфа-Будущее»](https://github.com/levg00/alfa-bank-personalization) | Python, Pandas, Codex | Продуктовая аналитика, Персонализация | Банковские предложения и путь до заявки для компаний и холдингов. |
 | [МобиКар](https://github.com/levg00/mobicar-funnel-analysis/blob/main/README.ru.md) | Python, Pandas, Matplotlib | Анализ воронки, Генерация гипотез | Поиск проблемного этапа на пути к первой поездке. |
 | [Билайн / RORE](https://github.com/levg00/beeline-rore-case/blob/main/README.ru.md) | Photoshop, Figma, Perplexity | Конкурентный анализ, Продуктовое проектирование | Персонализация и вовлечение для клиентов тарифа «План Б». |
 | [Финансовый щит](https://github.com/levg00/financial-shield-case/blob/main/README.ru.md) | Figma | Пользовательские сценарии, Оценка риска | Концепция защиты от мошеннических и импульсивных операций. |
